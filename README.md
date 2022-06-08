@@ -1,5 +1,6 @@
-# Blockchain Project 
-Project made in Prometeo Hackathon by team _Zeroth Divers_.
+# Subsidy Distribution System
+Project made by team _Zeroth Divers_ for Prometeo Blockchain Hackathon.
+A blockchain based smart contract for distributing subsidy tokens to consumers. Since smart contracts are used, no authority can manipulate the subsidies to their advantage, this implies secure transactions.
 
 Main Contract address : 0xacf9172eFa504D838E40d90234Dba5a6A015b8F8.
 
